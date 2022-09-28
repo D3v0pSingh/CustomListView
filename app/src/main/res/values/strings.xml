@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+    <string-array name="Fruits">
+        <item>"Apple"</item>
+        <item>"Banana"</item>
+        <item>"Carrot"</item>
+        <item>"Daffodile"</item>
+        <item>"Egg"</item>
+        <item>"File"</item>
+        <item>"Goat"</item>
+        <item>"Heavy"</item>
+        <item>"Imagine"</item>
+        <item>"Jackfruit"</item>
+        <item>"KingKong"</item>
+        <item>"Lime"</item>
+        <item>"Mango"</item>
+        <item>"Nino"</item>
+        <item>"Oppo"</item>
+        <item>"Parrot"</item>
+        <item>"Queen"</item>
+        <item>"RestAPi"</item>
+        <item>"Saffron"</item>
+        <item>"Tiger"</item>
+        <item>"Universe"</item>
+        <item>"verse"</item>
+        <item>"Wild fire"</item>
+        <item>"Xmas"</item>
+        <item>"Yellow"</item>
+        <item>"zaltan"</item>
+
+    </string-array>
+</resources>
